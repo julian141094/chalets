@@ -1,0 +1,18 @@
+#body-login {
+		position: relative;
+		padding: 4em 0 2em 0;
+		background-image: url("../../images/promo.jpg");
+		
+		background-color: #000000;
+		background-size: 100% 620%;
+		background-repeat: repeat, no-repeat, no-repeat;
+}
+#form-login {
+	position: auto;
+	margin: 120px -310px  50px 500px;
+
+}
+#img-table {
+	width: 100px !important;
+	height: 100px !important;
+}
